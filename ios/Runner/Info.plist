@@ -49,5 +49,7 @@
 	<true/>
 	<key>API_KEY</key> 
 	<string>$(apiKey)</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+   <string>This app needs access to location when open.</string>
 </dict>
 </plist>
